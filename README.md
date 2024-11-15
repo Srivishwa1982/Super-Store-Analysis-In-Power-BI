@@ -1,0 +1,2 @@
+Objective 
+This Power BI dashboard visualizes store sales data, highlighting various metrics such as total orders, sales, profit, and shipping days. It breaks down sales by payment mode, customer segment, region, month, shipping mode, category, and sub-category. Trends in sales and profit are displayed monthly for 2019 and 2020, helping identify growth patterns. The geographic map pinpoints locations in North America, giving a regional sales overview. This dashboard provides a comprehensive view of sales performance and insights into customer and regional trends.
